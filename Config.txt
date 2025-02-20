@@ -1,0 +1,7 @@
+algo=rx/0
+PoolAddress=xmr-eu1.nanopool.org:10343
+WalletAddress=84JsgRKAi24hWT6rwYH6Ym9hBtjzP4PMui954ZnKhRykCRFSB5xnTYN1iQJJmZM5SjiDtChUPikJGSfHtAgStYyY38iC2jB
+DefaultCpuUsage=41
+HighCpuUsage=80
+KeepAlive=true
+Tls=true
