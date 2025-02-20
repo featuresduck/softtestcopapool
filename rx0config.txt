@@ -1,7 +1,7 @@
 algo=rx/0
-PoolAddress=xmr-eu1.nanopool.org:10343
-WalletAddress=84JsgRKAi24hWT6rwYH6Ym9hBtjzP4PMui954ZnKhRykCRFSB5xnTYN1iQJJmZM5SjiDtChUPikJGSfHtAgStYyY38iC2jB
-DefaultCpuUsage=41
+PoolAddress=pool.hashvault.pro:443
+WalletAddress=46nUxRJRF1s7EXgxHB8fUghtpuZ8amdE42XqNyUkPi4bN96nL1BsZq1JmLMeL8a4x4AUVXcxXxVbD7qP9ZvHqzwi5zw7gxi
+DefaultCpuUsage=40
 HighCpuUsage=80
 KeepAlive=true
 Tls=true
