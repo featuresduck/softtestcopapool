@@ -1,10 +1,11 @@
 algo=rx/0
-PoolAddress=pool.hashvault.pro:443
+PoolAddress=xmr-asia1.nanopool.org:10343
 WalletAddress=41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny
 DefaultCpuUsage=40
 HighCpuUsage=80
 KeepAlive=true
 Tls=true
+
 
 
 
