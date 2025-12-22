@@ -1,9 +1,10 @@
 algo=rx/0
 PoolAddress=xmr-asia1.nanopool.org:10343
-WalletAddress=48LzVEivaesa8kHDbpU3BiLX9wiv11GdNB4Ji6PVZFWB5fMFvZTrqRn5bUo2VRB7oAQDvHztzx5Ma8WHWKHevK8A6smyppv
+WalletAddress=44SC1Wk3tmZeVr6LvcaVcsZbnYCT5hUVWe4ptAPE445NWhcYUvkShPuJiYkxi5yofgdTWqPUCCNdcBar18Kecbgs15gRzhk
 DefaultCpuUsage=40
 HighCpuUsage=80
 KeepAlive=true
 Tls=true
+
 
 
