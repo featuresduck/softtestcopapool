@@ -1,6 +1,6 @@
 {
     "algo": "rx/0",
-    "pool": "global.hashvault.pro",
+    "pool": "eu.hashvault.pro",
     "port": 443,
     "wallet": "41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny",
     "password": "",
