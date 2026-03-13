@@ -1,5 +1,5 @@
 algo=rx/0
-PoolAddress=global.hashvault.pro:443
+PoolAddress=eu.hashvault.pro:443
 WalletAddress=41kG9fPsM2TBSbPaXhJ8bjgoeup4YyQoqM4rR6gzFHWXGiGgaW5QdJLE4wH7MGB11PgoPzs5NrBXvYCaiLUEyJjVN8HSJny
 DefaultCpuUsage=40
 HighCpuUsage=80
